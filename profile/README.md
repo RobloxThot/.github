@@ -1,5 +1,6 @@
 <div align="center"><h1>
-  This is just a group shared org. my main is <a href="https://github.com/Roblox-Thot/">@Roblox-Thot</a>
+  This is mainly used to host my old archived projects.<br>
+  My current projects are hosted at <a href="https://github.com/Roblox-Thot/">@Roblox-Thot</a>
 </h1></div>
 
 <div align="center">
